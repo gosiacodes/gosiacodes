@@ -9,7 +9,8 @@ I want to develop myself and I am ready to take on new challenges as a developer
 Please contact me if you are interested!
 
  📫 malgorzata.pick@gmail.com
- 🌍 [My portfolio] (https://malgorzatapick.eu/)
+ 
+ 🌍 https://malgorzatapick.eu/
 
 <!--
 **margareta75/margareta75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
