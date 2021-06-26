@@ -1,10 +1,12 @@
+![LinkedIn_bg](https://user-images.githubusercontent.com/57414079/123512652-e4f3a080-d688-11eb-85e7-b038564c53af.png)
+
 ### Hi there 👋 I'm Gosia.
 
 Based in Malmö, Sweden.
 
 I am a junior Java developer with a passion for computers, technology and the internet.
 
-I want to develop myself I am ready to take on new challenges as a developer. 
+I want to develop myself and I am ready to take on new challenges as a developer. 
 
 Please contact me if you are interested!
 
