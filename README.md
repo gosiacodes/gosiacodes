@@ -8,7 +8,7 @@ I want to develop myself I am ready to take on new challenges as a developer.
 
 Please contact me if you are interested!
 
-
+ 📫 malgorzata.pick@gmail.com
 
 <!--
 **margareta75/margareta75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
