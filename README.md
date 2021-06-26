@@ -12,9 +12,7 @@ Please contact me if you are interested!
 
  📫 malgorzata.pick@gmail.com
  
- 🌍 https://malgorzatapick.eu/
- 
- [My portfolio](https://malgorzatapick.eu/)
+ 🌍 [My portfolio](https://malgorzatapick.eu/)
 
 <!--
 **margareta75/margareta75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
