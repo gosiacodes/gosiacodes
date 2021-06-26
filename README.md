@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Gosia.
 
-Based in Malmö, Sweden.
+🏠 Malmö, Sweden.
 
 I am a junior developer with a passion for computers, technology and the internet.
 
