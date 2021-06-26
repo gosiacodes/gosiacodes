@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Gosia.
+
+Based in Malmö, Sweden.
+
+I am a junior Java developer with a passion for computers, technology and the internet.
+
+I want to develop myself I am ready to take on new challenges as a developer. 
+
+Please contact me if you are interested!
+
+
 
 <!--
 **margareta75/margareta75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
