@@ -10,6 +10,9 @@ Please contact me if you are interested!
 
  📫 malgorzata.pick@gmail.com
  
+ ![image](https://user-images.githubusercontent.com/57414079/123513760-2dae5800-d68f-11eb-9c45-d783de5cd8cb.png)
+
+ 
  🌍 https://malgorzatapick.eu/
 
 <!--
