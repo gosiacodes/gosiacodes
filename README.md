@@ -1,3 +1,5 @@
+![woman-technologist](https://user-images.githubusercontent.com/57414079/123513817-9dbcde00-d68f-11eb-9183-c1f889622025.png)
+
 ### Hi there 👋 I'm Gosia.
 
 Based in Malmö, Sweden.
@@ -9,9 +11,6 @@ I want to develop myself and I am ready to take on new challenges as a developer
 Please contact me if you are interested!
 
  📫 malgorzata.pick@gmail.com
- 
- ![image](https://user-images.githubusercontent.com/57414079/123513760-2dae5800-d68f-11eb-9c45-d783de5cd8cb.png)
-
  
  🌍 https://malgorzatapick.eu/
 
