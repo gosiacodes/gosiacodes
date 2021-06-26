@@ -1,4 +1,4 @@
-![LinkedIn_bg](https://user-images.githubusercontent.com/57414079/123512652-e4f3a080-d688-11eb-85e7-b038564c53af.png)
+![logo_mp](https://user-images.githubusercontent.com/57414079/123513538-0acf7400-d68e-11eb-99ab-f8ad17fc25c9.png)
 
 ### Hi there 👋 I'm Gosia.
 
