@@ -14,7 +14,7 @@ Please contact me if you are interested!
  
  🌍 https://malgorzatapick.eu/
  
- [GitHub](http://github.com)
+ [My portfolio](https://malgorzatapick.eu/)
 
 <!--
 **margareta75/margareta75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
