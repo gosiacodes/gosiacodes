@@ -1,4 +1,6 @@
-![woman-technologist](https://user-images.githubusercontent.com/57414079/123513817-9dbcde00-d68f-11eb-9183-c1f889622025.png) ### Hi there 👋 I'm Gosia.
+![woman-technologist](https://user-images.githubusercontent.com/57414079/123513817-9dbcde00-d68f-11eb-9183-c1f889622025.png) 
+
+### Hi there 👋 I'm Gosia.
 
 🏠 Malmö, Sweden.
 
