@@ -18,7 +18,7 @@ Please contact me if you are interested!
  [![Gosia's GitHub stats](https://github-readme-stats.vercel.app/api?username=margareta75&show_icons=true&theme=tokyonight)](https://github.com/margareta75?tab=repositories)
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margareta75&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margareta75&layout=compact&theme=tokyonight)](https://github.com/margareta75?tab=repositories)
 
 
 <!--
