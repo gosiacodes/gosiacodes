@@ -21,6 +21,9 @@ Please contact me if you are interested!
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margareta75&layout=compact&theme=tokyonight)](https://github.com/margareta75?tab=repositories)
 
 
+ [GitHub Readme Stats Source](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
 <!--
 **margareta75/margareta75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
