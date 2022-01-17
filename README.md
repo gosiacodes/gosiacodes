@@ -24,7 +24,9 @@ Please contact me if you are interested!
 * Walking 🚶‍♀️
 * Music 🎵
  
- ## My stats
+<img src="https://user-images.githubusercontent.com/57414079/149832462-22500efc-4662-49bf-ba9b-f5edc55822c2.png" width="150" height="150" alt="Femalecodertocat">
+ 
+ ## My stats :octocat:
  
  [![Gosia's GitHub stats](https://github-readme-stats.vercel.app/api?username=margareta75&show_icons=true&theme=tokyonight)](https://github.com/margareta75?tab=repositories)
  
