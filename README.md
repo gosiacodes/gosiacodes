@@ -1,6 +1,6 @@
 ![woman-technologist](https://user-images.githubusercontent.com/57414079/123513817-9dbcde00-d68f-11eb-9183-c1f889622025.png) 
 
-### Hi there 👋 I'm Gosia.
+## Hi there 👋 I'm Gosia.
 
 🏠 Malmö, Sweden.
 
@@ -14,7 +14,18 @@ Please contact me if you are interested!
  
  🌍 [My portfolio](https://malgorzatapick.eu/)
  
- <!--
+ ## I :heart:
+
+* My Family 👨‍👩‍👧‍👦
+* Watch Netflix 🎥
+* Programming 💻
+* Photography 📸
+* Cycling 🚴
+* Walking 🚶‍♀️
+* Music 🎵
+ 
+ ## My stats
+ 
  [![Gosia's GitHub stats](https://github-readme-stats.vercel.app/api?username=margareta75&show_icons=true&theme=tokyonight)](https://github.com/margareta75?tab=repositories)
  
  
@@ -22,7 +33,7 @@ Please contact me if you are interested!
 
 
  [GitHub Readme Stats Source](https://github.com/anuraghazra/github-readme-stats)
- -->
+ 
  
 <!--
 **margareta75/margareta75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
