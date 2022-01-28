@@ -14,14 +14,15 @@ Please contact me if you are interested!
  
  🌍 [My portfolio](https://malgorzatapick.eu/)
  
- ## I :heart:
+ ## I ❤️
 
 * My Family 👨‍👩‍👧‍👦
-* Watch Netflix 🎥
+* Cinema & Netflix 🎥
 * Programming 💻
 * Photography 📸
 * Cycling 🚴
-* Walking 🚶‍♀️
+* Travels ✈️
+* Books 📚
 * Music 🎵
  
 <img src="https://user-images.githubusercontent.com/57414079/149832462-22500efc-4662-49bf-ba9b-f5edc55822c2.png" width="150" height="150" alt="Femalecodertocat">
