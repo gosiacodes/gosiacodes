@@ -27,10 +27,10 @@ Feel free to contact me! 💬
  
  ## My stats :octocat:
  
- [![Gosia's GitHub stats](https://github-readme-stats.vercel.app/api?username=margareta75&show_icons=true&theme=tokyonight)](https://github.com/margareta75?tab=repositories)
+ [![Gosia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosiacodes&show_icons=true&theme=tokyonight)](https://github.com/gosiacodes?tab=repositories)
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margareta75&layout=compact&theme=tokyonight)](https://github.com/margareta75?tab=repositories)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gosiacodes&layout=compact&theme=tokyonight)](https://github.com/gosiacodes?tab=repositories)
 
 
  [GitHub Readme Stats Source](https://github.com/anuraghazra/github-readme-stats)
