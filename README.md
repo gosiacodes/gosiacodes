@@ -6,9 +6,7 @@
 
 ✨ I'm an educated Java Developer and Front-End Web Developer, with a passion for web development and design. I'm passionate about nice layouts and cool features! Easy-to-read and manageable code is my bread and butter. I like React.js because programming in this framework is easy and fun. I love to learn new things and I am addicted to learning :smiley: 
 
-Feel free to contact me! 💬
-
- 📫 gosia@gosiacodes.eu
+Feel free to contact me! 💬 You can do it via LinkedIn or via contact form on my portfolio.
  
  🌍 [My portfolio](https://malgorzatapick.eu/)
  
